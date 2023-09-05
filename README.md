@@ -27,8 +27,7 @@ Before you begin, ensure you have met the following requirements:
 
 Node.js and npm installed on your development machine.
 .NET Core SDK for running the backend Web API.
-Git for version control.
-Getting Started
+Git for version control.Getting Started
 
 Clone the repository:
 bash
@@ -61,9 +60,6 @@ Copy code
 cd ../client
 npm start
 Open your web browser and access the app at http://localhost:3000.
-API Documentation
-
-For detailed API documentation and endpoints, refer to the API documentation.
 
 Contributing
 
