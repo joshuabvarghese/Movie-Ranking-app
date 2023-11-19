@@ -32,7 +32,7 @@ Git for version control.Getting Started
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/item-ranking-app.git
+git clone (https://github.com/joshuabvarghese/Movie-Ranking-app.git)
 Navigate to the project directory:
 bash
 Copy code
