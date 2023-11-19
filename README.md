@@ -60,17 +60,3 @@ Copy code
 cd ../client
 npm start
 Open your web browser and access the app at http://localhost:3000.
-
-Contributing
-
-Contributions are welcome! Please follow our Contribution Guidelines to get started.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-
-This project was inspired by the need for a fun and interactive way to rank items.
-Special thanks to the React and .NET Core communities for their valuable resources and support.
-Feel free to customize this README to include any additional information or sections that you think would be relevant to your project. Providing clear instructions for setting up and running the app, along with documentation and licensing information, will make it easier for others to understand and contribute to your project
